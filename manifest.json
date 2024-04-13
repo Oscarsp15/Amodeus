@@ -1,0 +1,19 @@
+{
+  "name": "AMOSIS",
+  "short_name": "AMOSIS",
+  "description": "Amosis, es un sistema web desarrollado con el objetivo que el usuario pueda tener un control automatizado y eficiente de sus bienes en almacén",
+  "background_color": "#eee",
+  "theme_color": "#eee",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./archives/icons/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
