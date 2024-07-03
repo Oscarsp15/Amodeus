@@ -1,7 +1,7 @@
 {
-  "name": "AMOSIS",
-  "short_name": "AMOSIS",
-  "description": "Amosis, es un sistema web desarrollado con el objetivo que el usuario pueda tener un control automatizado y eficiente de sus bienes en almacén",
+  "name": "AMODEUS",
+  "short_name": "AMODEUS",
+  "description": "Amodeus, es un sistema web desarrollado con el objetivo que el usuario pueda tener un control automatizado y eficiente de sus bienes en almacén",
   "background_color": "#eee",
   "theme_color": "#eee",
   "orientation": "portrait",
